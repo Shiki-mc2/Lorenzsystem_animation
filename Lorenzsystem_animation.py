@@ -12,13 +12,13 @@ def f(v):
     return a
 
 startT= 0.0
-endT  = startT + 15.0
+endT  = startT + 3.0
 dt    = 0.00005
 dlt   = 0.01
 fps   = 20.0
 speed = 5.0
 n_time= (endT - startT)*fps/speed
-n_case= 2
+n_case= 5
 
 sgm = 10
 bet = 8/3
