@@ -16,7 +16,7 @@ endT  = startT + 3.0
 dt    = 0.00005
 dlt   = 0.01
 fps   = 20.0
-speed = 5.0
+speed = 5.00
 n_time= (endT - startT)*fps/speed
 n_case= 5
 
